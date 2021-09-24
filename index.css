@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Gluten:wght@200&display=swap');
-*{
-    font-family: 'Gamja Flower', cursive;
-}
 body{
     background-color: #b5a28a;
     text-shadow: 2px 2px 6px #382f30;
     color: #e1e2e4;
     font-size: 15px;
+    font-family: 'Gluten', cursive;
 }
 
 :root{
